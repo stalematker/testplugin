@@ -1,0 +1,8 @@
+{
+    "name": "testplugin",
+    "version": "1.0.0",
+    "description": "This plugin was downloaded",
+    "main": "index.js",
+    "author": "Kevin Lee",
+    "license": "MIT"
+  }
