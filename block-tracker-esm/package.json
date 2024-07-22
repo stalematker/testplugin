@@ -1,0 +1,18 @@
+{
+  "name": "block-tracker",
+  "version": "1.0.0",
+  "main": "out/index.js",
+  "type": "module",
+  "author": "Jake Ahn",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "overnode": "file:../../overnode-dts"
+  }
+}
